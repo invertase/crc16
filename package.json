@@ -1,0 +1,30 @@
+{
+  "name": "crc16",
+  "version": "1.0.0",
+  "description": "Native node addon to calculate CRC16 values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "install": "node-gyp rebuild"
+  },
+  "engines" : {
+    "node" : ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salakar/crc16.git"
+  },
+  "keywords": [
+    "crc16",
+    "native",
+    "addon",
+    "redis"
+  ],
+  "author": "mike.diarmid@gmail.com",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/salakar/crc16/issues"
+  },
+  "homepage": "https://github.com/salakar/crc16",
+  "tonicExample": "var CRC16 = require('crc16'); \n console.log(CRC16('some_value')); \n console.log(CRC16('0d0103588990501766460026', 'hex'));"
+}
