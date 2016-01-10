@@ -7,6 +7,8 @@
 ![dev dependencies](https://img.shields.io/david/dev/salakar/crc16.svg)
 ![License](https://img.shields.io/npm/l/crc16.svg)
 
+Native node addon to calculate CRC16 values.
+
 ## Installation
 
 ```
