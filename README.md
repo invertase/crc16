@@ -16,7 +16,7 @@ npm i crc16 --save
 ```
 
 ## NOTE
-If your intention is to use this to calculate redis slots then please use https://github.com/Salakar/cluster-key-slot - it's a pure JS implementation I wrote that is way faster thant doing it natively.
+If your intention is to use this to calculate redis slots then please use https://github.com/Salakar/cluster-key-slot - it's a pure JS implementation I wrote that is way faster than doing it natively.
 
 ## Usage
 
