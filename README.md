@@ -5,7 +5,7 @@
 ![node version](https://img.shields.io/node/v/crc16.svg)
 ![dependencies](https://img.shields.io/david/salakar/crc16.svg)
 ![dev dependencies](https://img.shields.io/david/dev/salakar/crc16.svg)
-![License](https://img.shields.io/npm/l/crc16.svg)
+[![Donate](https://img.shields.io/badge/Donate-Patreon-green.svg)](https://www.patreon.com/invertase)
 
 Native node addon to calculate CRC16 values.
 
