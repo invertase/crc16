@@ -10,4 +10,4 @@ module.exports = function (strOrBuffer, encoding) {
 		throw TypeError('Invalid arguments provided, Syntax: `CRC16(stringOrBuffer, encoding)`');
 	}
 	return crc16(buffer);
-}
+};

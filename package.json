@@ -16,11 +16,17 @@
   },
   "keywords": [
     "crc16",
+    "serial",
     "native",
     "addon",
     "redis"
   ],
-  "author": "mike.diarmid@gmail.com",
+  "author": {
+    "name": "Mike Diarmid",
+    "email": "mike.diarmid@gmail.com",
+    "url": "http://github.com/Salakar/"
+  },
+  "license": "APACHE-2.0",
   "gypfile": true,
   "bugs": {
     "url": "https://github.com/salakar/crc16/issues"
