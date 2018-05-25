@@ -1,14 +1,14 @@
 {
   "name": "crc16",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Native node addon to calculate CRC16 values.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
     "install": "node-gyp rebuild"
   },
-  "engines" : {
-    "node" : ">=4.0.0"
+  "engines": {
+    "node": ">=4.0.0"
   },
   "repository": {
     "type": "git",
